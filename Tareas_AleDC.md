@@ -1,9 +1,9 @@
-1. Intro
+## 1. Intro
 
 [link](https://www.youtube.com/watch?v=FLKkFP-2JPE&ab_channel=UCAMUniversidadCat%C3%B3licadeMurcia)
 
 
-2. Protegé
+## 2. Protegé
 Esta es la herramienta que vamos a usar para escribir la ontología
 
 
@@ -13,14 +13,14 @@ Esta es la herramienta que vamos a usar para escribir la ontología
 
 
 
-3. Ejemlos de gente que hizo ontología de distintos temas:
+## 3. Ejemlos de gente que hizo ontología de distintos temas:
 
 [link](https://eprints.ucm.es/44234/1/T39078.pdf)
 
 
 
 
-4. Qué es lo concreto que AleDC tiene que hacer?
+## 4. Qué es lo concreto que AleDC tiene que hacer?
 
 
 -  Estudiar un poco sobre ontología
@@ -35,7 +35,7 @@ Esta es la herramienta que vamos a usar para escribir la ontología
 
 
 
-5. Qué es lo que tiene que hacer Sole.
+## 5. Qué es lo que tiene que hacer Sole.
 
 Tratar de conseguir un nivel de interacción óptico con AleDc para que él pueda cumplir con el punto 4.
 
@@ -44,7 +44,7 @@ Luego esta metodología la vamos a ir replicando con los demas investigadores.
 
 
 
-6. Cuales son los trabajos futuros.
+## 6. Cuales son los trabajos futuros.
 
 De acá a 3 semanas deberíamos estar listo para abrier el juego a otros proyectos para poder modelarlo.
 
