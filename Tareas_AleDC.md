@@ -20,7 +20,7 @@ Esta es la herramienta que vamos a usar para escribir la ontología
 
 
 
-4. Qué es lo concreto que AleDC tiene que hacer.
+4. Qué es lo concreto que AleDC tiene que hacer?
 
 
 -  Estudiar un poco sobre ontología
